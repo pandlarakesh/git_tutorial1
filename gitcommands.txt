@@ -11,3 +11,4 @@ git remote add origin https://github.com/pandlarakesh/git_tutorial1 -----> confi
 git push -u origin master ---> pushing files from local repositories to global repositories
 git checkout -b "branch1"---> create a branch
 
+git checkout branch2 --> move to branch2 if already created
