@@ -1,0 +1,13 @@
+GIT Commands
+
+
+git init -------> git intialization
+git status ------> check git status
+git add filename -------> stagging
+git commit -m "commiting python and text file"
+git config --global user.name "pandlarakesh"
+git config --global user.email "rakesh1073.eidiko@gmail.com"
+git remote add origin https://github.com/pandlarakesh/git_tutorial1 -----> configuring golbal repositories on local repositories
+git push -u origin master ---> pushing files from local repositories to global repositories
+git checkout -b "branch1"---> create a branch
+
